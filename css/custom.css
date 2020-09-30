@@ -1,0 +1,320 @@
+/* header */
+.bg-header{
+    background-color: rgba(0, 0, 0, 0.118);
+}
+.nav-color a{
+    font-weight: 600px;
+    color: rgba(255, 255, 255, 0.809)!important;
+}
+.header{
+    background-image:url(../images/bg/header.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.intro{
+    text-align: center;
+    color:white;
+    margin-top:100px;
+    margin-bottom:50px;
+}
+.header img{
+    width:100px;
+    height:50px;
+}
+
+/* featured testimonial */
+#featured-mo{
+    display: none;
+}
+.commander img{
+    margin-bottom:10px;
+    width:70px;
+    height:70px;
+}
+.featured hr{
+    margin-bottom:30px;
+    margin-top:30px;
+}
+.featured-image{
+    text-align:center;
+}
+.featured-image div{
+    display: inline;
+}
+.featured-image img{
+    margin-left:10px;
+    width:100px;
+}
+.featured-icon img{
+    margin-left:10px;
+    width:20px;
+    height:20px;
+}
+/* video testimonial */
+.video{
+    background-color: rgba(8, 8, 79, 0.837);
+    color: white;
+}
+.company-name img{
+    height: 30px;
+    margin-bottom: 15px;
+}
+.company-name h4{
+    margin:0;
+}
+.video-image img{
+    width:100%;
+    height:100%;
+}
+.play{
+    left:43%;
+    top:43%;
+    position:absolute;
+}
+.play img{
+    width:70px;
+    height:70px;
+}
+.video hr{
+    border-bottom:2px solid rgba(255, 255, 255, 0.542);
+    margin-bottom:30px;
+    margin-top:30px;
+}
+.next-video img{
+    margin-top:20px;
+    margin-bottom:15px;
+    width:30px;
+    height:30px;
+}
+#video-mo{
+    display: none;
+}
+/* client-ex */
+.client-ex{
+    background-image: url(../images/bg/customer-experience.png);
+    background-repeat:no-repeat;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100% 100%;
+}
+.client-information{
+    color:white;
+}
+.client-information button{
+    border-radius: 15px;
+    margin-top:20px;
+    margin-bottom:50px;
+}
+.client-info h6{
+    margin-bottom:15px;
+}
+/* trust pilot */
+.trusted-people{
+    background-color: rgba(235, 226, 226, 0.446);
+}
+.trusted-info{
+    background-color: rgba(107, 103, 103, 0.124);
+    border-radius:5px;
+}
+.trusted-info p{
+    padding:20px;
+}
+.quotation img{
+    width: 30px;
+}
+.trusted-info h5{
+    margin:0px;
+}
+.trusted-info hr{
+    border-bottom: 1px solid rgba(0, 128, 0, 0.282);
+    width: 50%;
+}
+.people img{
+    margin-top:-30px;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;;
+
+}
+/* happy client */
+#happy-client-mo{
+    display: none;
+}
+.happy-client img{
+    width: 100%;
+}
+.select-option{
+    margin:auto;
+    width: 80%;
+    border-radius:3px;
+    border: 1px solid rgba(0, 0, 0, 0.165);
+}
+.select-option img{
+    margin-right: 20px;
+    width: 20px;
+    height: 10px;
+}
+.select-option p{
+    margin-top:15px;
+    font-weight:600;
+    margin-left: 25px;
+
+}
+.client-info{
+    border-radius:2px;
+    padding:15px;
+    color: black;
+    background-color:rgb(243, 241, 241);
+}
+.client-info img{
+    width: 50px;
+    height: 50px;
+}
+.client-head{
+    color: white;
+    margin-left:-25px;;
+    width: 90%;
+    background-color:rgba(0, 128, 0, 0.611);
+    text-align:left;
+}
+.client-head h6{
+    padding:5px;
+    margin-left:25px;
+}
+.client-people img{
+    border-radius:100%;
+    margin-bottom: 15px;
+}
+.client-happy{
+    margin-top:-25px;
+}
+.green-quotation img{
+    margin-top:-15px;
+    width: 40px;
+    height: 30px;
+}
+.client-happy-info{
+    margin-left:10px;
+}
+.client-happy-info p{
+    margin:0;
+    font-size: 12px;
+}
+.designation{
+    font-size: 8px!important;
+}
+.client-info p{
+    text-align:left;
+}
+.icon img{
+    width: 50px;
+}
+
+/* case-studies */
+#case-mo{
+    display: none;
+}
+.case-items{
+    background-color: rgb(243, 238, 238);
+}
+.case-studies img{
+    padding:15px;
+    margin: auto;
+    width: 90%;
+}
+.case-studies p{
+    padding:15px;
+    text-align: left;
+}
+.case-hr{
+    width: 70%;
+    border-bottom: 1px solid rgba(0, 128, 0, 0.302);
+}
+.case-end{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.323);
+    width: 90%;
+}
+/* trusted-by */
+#trusted-by-mo{
+    display: none;
+}
+.trusted{
+    background-image: url(../images/bg/trusted-by.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.trusted-image img{
+    width: 50px;
+    margin-right: 15px;;
+}
+.trusted-big img{
+    margin-top:25px;
+    width: 100px;
+    margin-right: 25px;
+    margin-bottom:25px;
+}
+/* footer */
+.footer{
+    background-color: rgba(5, 5, 56, 0.85);
+    color: white;
+}
+.footer-hr{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.624);
+}
+.footer p{
+    font-size: 12px;;
+}
+.footer img{
+    width: 15px;
+    height:15px;
+}
+/* some changes for tab */
+@media only screen and (min-width: 576px) and (max-width:767px){
+    #moem-icon,#video-4,#second-client-info,#case-5,#case-6{
+        display: none;
+    }
+  }
+/*some changes for mobile */
+@media only screen and (max-width:575px){
+    .slide img{
+        width:40px;
+        height:30px;
+    }
+    .case-slide{
+        text-align:center;
+    }
+    .case-slide img{
+        width: 70px;
+    }
+    .trusted-mobile img{
+        width:100%;
+    }
+    .featured-image img{
+        margin-left:10px;
+        width:60px;
+    }
+    .featured-icon img{
+        margin-left:10px;
+        width:15px;
+        height:15px;
+    }
+    .intro p{
+        text-align:left;
+    }
+    .client-ex{
+    background-image: url(../images/bg/client-ex.png);
+    background-repeat:no-repeat;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100% 100%;
+}
+    #moem-icon,#video-ds,#tcdd-icon,#happy-client-ds,#case-ds,#trusted-by-ds,#featured-ds{
+        display: none;
+    }
+    #video-mo,#happy-client-mo,#case-mo,#trusted-by-mo,#featured-mo{
+        display: block;
+    }
+  }
