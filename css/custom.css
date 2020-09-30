@@ -1,3 +1,7 @@
+@font-face { font-family: custom; src: url('../font/montserrat/Montserrat-Regular.otf'); } 
+body{
+    font-family: custom;
+}
 /* header */
 .bg-header{
     background-color: rgba(0, 0, 0, 0.118);
